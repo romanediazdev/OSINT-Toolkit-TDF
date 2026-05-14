@@ -38,7 +38,7 @@ Este toolkit fue desarrollado utilizando únicamente **librerías nativas de Pyt
    ```bash
    python panel_osint.py
 
-   ⚖️ Descargo de Responsabilidad (Disclaimer)
+⚖️ Descargo de Responsabilidad (Disclaimer)
 Esta herramienta tiene fines estrictamente educativos y de auditoría ética. El autor no se hace responsable del uso indebido de estos scripts. El escaneo o acceso a información de infraestructuras de terceros sin autorización previa es ilegal y va en contra de los principios de ciberseguridad ética.
 
 Desarrollado en Río Grande, Tierra del Fuego, Argentina. 🇦🇷
