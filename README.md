@@ -5,7 +5,7 @@ Este repositorio contiene una suite de herramientas desarrolladas en **Python** 
 ## 🎛️ Panel de Control Central
 El toolkit incluye un menú interactivo (`panel_osint.py`) que funciona como el centro de operaciones. Desde este hub podés lanzar cualquiera de las herramientas forenses de manera ágil sin necesidad de ejecutar los scripts por separado.
 
-![Captura del Panel de OSINT](captura_panel.jpg)
+![Captura del Panel de OSINT](captura_panel.png)
 
 ## 🛠️ Herramientas Incluidas
 
