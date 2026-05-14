@@ -60,7 +60,7 @@ banner = """
  ╦╔═╗  ╔╦╗╦═╗╔═╗╔═╗╦╔═╔═╗╦═╗
  ║╠═╝   ║ ╠╦╝╠═╣║  ╠╩╗║╣ ╠╦╝
  ╩╩     ╩ ╩╚═╩ ╩╚═╝╩ ╩╚═╝╩╚═
-  --- Politécnico Malvinas Argentinas ---
+  --- RIO GRANDE, TIERRA DEL FUEGO ---
         Módulo de Rastreo IP v2.0
 """
 print(banner)
